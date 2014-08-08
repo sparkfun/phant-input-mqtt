@@ -1,6 +1,6 @@
 {
   "name": "phant-input-mqtt",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "main": "lib/phant-input-mqtt.js",
   "description": "mqtt input for phant",
   "homepage": "https://github.com/sparkfun/phant-input-mqtt",
