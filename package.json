@@ -45,20 +45,6 @@
         "description": "The TCP port to listen on."
       },
       {
-        "label": "Redis Host",
-        "name": "redis_host",
-        "default": "localhost",
-        "type": "text",
-        "description": "The hostname or IP of the Redis server."
-      },
-      {
-        "label": "Redis Port",
-        "name": "redis_port",
-        "default": "6379",
-        "type": "number",
-        "description": "The port that the Redis sever is listening on."
-      },
-      {
         "label": "Keychain",
         "name": "keychain",
         "default": "phant-keychain-hex",
@@ -69,6 +55,6 @@
     ]
   },
   "peerDependencies": {
-    "phant-server-mqtt": "^0.1.0"
+    "phant-server-mqtt": "^1.0.0"
   }
 }
