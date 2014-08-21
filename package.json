@@ -55,6 +55,6 @@
     ]
   },
   "peerDependencies": {
-    "phant-server-mqtt": "^1.0.0"
+    "phant-server-mqtt": "^2.0.0"
   }
 }
